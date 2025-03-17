@@ -37,6 +37,8 @@ input{
     /* height: 100px !important; */
     font-size: 80px !important;
     border-radius: 10px;
+    background-color: white;
+    color: black;
 }
 h1{
     display: block;
