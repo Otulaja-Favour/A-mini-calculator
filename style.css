@@ -49,6 +49,7 @@ h1{
 }
 .but{
     width: 40%;
+font-size: 20px
 }
 
 @media screen and (max-width:600px) {
